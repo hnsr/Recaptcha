@@ -104,7 +104,7 @@ class Studioforty9_Recaptcha_Helper_Data extends Mage_Core_Helper_Abstract
      * The enabled routes.
      *
      * @codeCoverageIgnore
-     * @return string
+     * @return array
      */
     public function getEnabledRoutes()
     {
